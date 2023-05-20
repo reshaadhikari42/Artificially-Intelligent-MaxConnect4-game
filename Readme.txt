@@ -1,6 +1,6 @@
 
 python 3.9.10 not omega compatible
-Artificical Intelligenct MaxConnect4 game created using eval function and alpha beta pruning minmax
+Artificical Intelligent MaxConnect4 game created using eval function and alpha beta pruning minmax
 This command line program is programmed in such a way that no matter what move you make, you will not be able to win the game
 The game is programmed to process the future moves(depth that you require) and then take the decision
 very simple eval function used, but works perfectly
